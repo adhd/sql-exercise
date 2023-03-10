@@ -25,5 +25,8 @@ sql-exercise
 
 ```
 
+## ಥ_ಥ
+[How to Cram for SQL Interview Tests & SQL Assessments](https://datalemur.com/blog/how-to-cram-for-sql-interview-tests-assessments)
+
 ## License
 Please note this repostory is under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/3.0/).
